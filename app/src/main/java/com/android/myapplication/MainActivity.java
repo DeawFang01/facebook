@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     private FacebookException facebookException;
     private LoginManager LoingManager;
 
-private LoginResult loginResult;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
